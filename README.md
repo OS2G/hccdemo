@@ -1,11 +1,18 @@
-# Basic Demo of Holland Computing Center
-This is a walkthrough demo on machine learning to be run on HCC
+# Supercomputing 101
+This is a walkthrough demo on machine learning to be run on HCC. For more information, visit [OS2G's HCC Resource page](https://os2g.unl.edu/hcc).
 
 ### Welcome to HCC
-This section is where Hongfeng's slides go, in the future it'd be better for the club to have their own specifically suited to the target audience meshing this section and the one after it. Here's hoping somebody reads this commit history.
+
+HCC has a large and wide array of resources that have been used to do all kinds of amazing research! Take a look at the recorded talk video for a quick explaination or watch [Hongfeng's complete talk](https://hcc.unl.edu/hcc-kickstart-2021), the slides from which are [included in this repo](20220906_Introduction.pdf).
 
 ### Getting Started with using the HCC
-This section is where the slides from 2019 are used to explain where the nodes are, how to use them, and mainly avoid doing something stupid on the head node.
+The four basic steps you need to know how to do in order to use the HCC (explained in more detail in the talk recording), found on slide 4 of HCC's Kickstart Slides from 2019, are:
+- Logging into HCC clusters using PuTTY(Windows)/Terminal(Mac).
+- Managing files on the cluster (navigating the filesystem).
+- Using modules (software) installed on the clusters.
+- Submitting jobs using a job scheduler (SLURM!).
+
+There are lots of other useful details about best practices and other details that can be found in the recording/slides, but you can easily learn the basics without needing them.
 
 ## DEMO!
 
